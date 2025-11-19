@@ -1,13 +1,74 @@
-# nayakDev.github.io
-# Researcher
+# ======================================================
+#   GitHub Research Portfolio – YAML Configuration
+#   Author: Dev Pradeepkumar Nayak
+#   Purpose: Professional academic research portfolio
+# ======================================================
 
-### Education
-MSc Lakehead University
+# ---------- Basic Site Info ----------
+title: "Research Portfolio"
+tagline: "Fluid–Structure Interaction • Fish Swimming Hydrodynamics • CFD"
+description: >
+  Graduate Researcher at Lakehead University specializing in bio-inspired
+  propulsion, dynamic & overset meshing, and computational fluid dynamics.
 
-### Work Experience
-CFD researcher @NIERL lab
-- paper1: show the link
-- paper2: show the link here
+url: "https://YOUR_USERNAME.github.io"   # Change to your GitHub Pages URL
+baseurl: ""                              # Leave blank unless using subdirectory
 
-### projects
+# ---------- Author Details ----------
+author:
+  name: "Dev P. Nayak"
+  email: "dpnayak@lakeheadu.ca"
+  affiliation: "Lakehead University"
+  linkedin: "https://www.linkedin.com/in/dev-nayak-b-eng-eit-2770891b5/"
+  google_scholar: "YOUR_GOOGLE_SCHOLAR_LINK"
+  orcid: "YOUR_ORCID_LINK"
 
+# ---------- Theme ----------
+theme: jekyll-theme-cayman     # Simple & clean
+# Other good themes:
+# jekyll-theme-minimal
+# jekyll-theme-slate
+# jekyll-theme-modernist
+
+# ---------- Navigation Menu ----------
+nav:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications
+  - title: "Projects"
+    url: /projects
+  - title: "Skills"
+    url: /skills
+  - title: "Contact"
+    url: /contact
+
+# ---------- Markdown Settings ----------
+markdown: kramdown
+kramdown:
+  input: GFM    # GitHub-Flavored Markdown
+
+# ---------- Plugins ----------
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# ---------- SEO ----------
+seo:
+  type: "profile"
+  name: "Dev Pradeepkumar Nayak"
+  links:
+    - "https://scholar.google.com/YOUR_LINK"
+    - "https://www.linkedin.com/in/YOUR_LINK/"
+
+# ---------- Build Settings ----------
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+
+# ---------- Footer ----------
+footer:
+  text: >
+    © 2025 Dev P. Nayak — Research Portfolio. All rights reserved.
