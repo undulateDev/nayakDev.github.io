@@ -11,7 +11,7 @@ description: >
   Graduate Researcher at Lakehead University specializing in bio-inspired
   propulsion, dynamic & overset meshing, and computational fluid dynamics.
 
-url: "https://YOUR_USERNAME.github.io"   # Change to your GitHub Pages URL
+%url: "https://YOUR_USERNAME.github.io"   # Change to your GitHub Pages URL
 baseurl: ""                              # Leave blank unless using subdirectory
 
 # ---------- Author Details ----------
@@ -58,8 +58,8 @@ seo:
   type: "profile"
   name: "Dev Pradeepkumar Nayak"
   links:
-    - "https://scholar.google.com/YOUR_LINK"
-    - "https://www.linkedin.com/in/YOUR_LINK/"
+    - "-"
+    - "-"
 
 # ---------- Build Settings ----------
 exclude:
