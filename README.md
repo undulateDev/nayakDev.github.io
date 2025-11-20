@@ -1,3 +1,9 @@
-title: Dev Pradeepkumar Nayak
-#logo: IMG_8017.JPG
-theme: jekyll-theme-minimal
+CFD Researcher
+
+###Education
+MSc. Lakehead University
+BSc. Lakehead university
+
+### Work Experience
+GA: Graduate Assistant
+- Grade exams and projects 
