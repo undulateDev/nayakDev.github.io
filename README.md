@@ -1,8 +1,1 @@
-# CFD Researcher
-
-[![Home](assets/home.svg)](./README.md)
-[![Research](assets/research.svg)](./research.md)
-[![Animations](assets/animations.svg)](./animations.md)
-[![About Me](assets/aboutMe.svg)](./aboutMe.md)
-[![Google Scholar](assets/scholar.svg)](https://scholar.google.com/citations?user=hAG54CMAAAAJ&hl=en&oi=ao)
-[![Contact](assets/contact.svg)](./contact.md)
+[![Home](assets/home.svg)](./README.md) [![Research](assets/research.svg)](./research.md) [![Animations](assets/animations.svg)](./animations.md) [![About Me](assets/aboutMe.svg)](./aboutMe.md) [![Google Scholar](assets/scholar.svg)](https://scholar.google.com/citations?user=hAG54CMAAAAJ&hl=en&oi=ao) [![Contact](assets/contact.svg)](./contact.md)
