@@ -11,5 +11,5 @@
         stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
 
   <text x="40" y="37" font-family="Arial" font-size="20" text-anchor="middle" fill="#d6eaff">🙋‍♂️</text>
-  <text x="135" y="37" font-family="Arial" font-size="18" fill="white" font-weight="bold">ABOUT ME</text>
+  <text x="115" y="37" font-family="Arial" font-size="18" fill="white" font-weight="bold">ABOUT ME</text>
 </svg>
